@@ -1,0 +1,13 @@
+mat-form-field {
+  width: 100%;
+}
+
+.freshness-radio-group {
+  display: flex;
+  flex-direction: column;
+  margin: 15px 0px;
+}
+
+.freshness-radio-button {
+  margin: 5px 0px;
+}
